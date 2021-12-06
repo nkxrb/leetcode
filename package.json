@@ -1,0 +1,38 @@
+{
+  "name": "nkxrb-leetcode",
+  "version": "1.0.0",
+  "private": false,
+  "author": "nkxrb",
+  "description": "leetcode for js",
+  "scripts": {
+    "test": "jest --maxWorkers=1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkxrb/leetcode.git"
+  },
+  "keywords": [
+    "nkxrb leetcode",
+    "javascript",
+    "typescript"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkxrb/leetcode/issues"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-typescript": "^7.15.0",
+    "@types/jest": "^27.0.2",
+    "@types/lodash-es": "^4.17.5",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.0.6",
+    "lodash-es": "^4.17.21",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.3.5"
+  }
+}
